@@ -1,0 +1,6 @@
+Window "Calculator" (250, 200) Layout Flow:
+Panel Layout Grid(4, 3, 5, 5):
+Textfield 20;
+Button "7";
+Button "0";
+End.
